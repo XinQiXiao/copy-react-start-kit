@@ -1,0 +1,21 @@
+# Mac OS
+.DS_Store
+*._*
+
+# npm
+node_modules
+npm-debug.log
+
+# bower
+bower_components
+
+# folder
+dist*
+_dist*
+
+# VSCode
+.vscode
+tsconfig.json
+jsconfig.json
+bundles/
+package-lock.json
