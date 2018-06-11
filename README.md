@@ -9,8 +9,8 @@
 
 	### 插件和依赖说明
 
-	webpack-dev-middleware && webpack-hot-middleware
-	url: https://www.jianshu.com/p/de2033797696
+			webpack-dev-middleware && webpack-hot-middleware
+			url: https://www.jianshu.com/p/de2033797696
 
-	html-webpack-plugin
-	url: https://www.jianshu.com/p/c1dcc7c7bf52
+			html-webpack-plugin
+			url: https://www.jianshu.com/p/c1dcc7c7bf52

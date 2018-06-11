@@ -2,7 +2,6 @@ import { createStore, applyMiddleware, combineReducers, compose } from 'redux';
 import thunk from 'redux-thunk';
 import { routerReducer } from 'react-router-redux';
 
-// TODO 
 import * as reducers from '../reducers';
 
 let middlewares = [thunk];
